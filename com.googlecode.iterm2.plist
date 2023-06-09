@@ -701,6 +701,216 @@
 				<real>0.90061241388320923</real>
 			</dict>
 		</dict>
+		<key>Material Design</key>
+		<dict>
+			<key>Ansi 0 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.40253299474716187</real>
+				<key>Green Component</key>
+				<real>0.35616019368171692</real>
+				<key>Red Component</key>
+				<real>0.26286587119102478</real>
+			</dict>
+			<key>Ansi 1 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.25575384497642517</real>
+				<key>Green Component</key>
+				<real>0.22098405659198761</real>
+				<key>Red Component</key>
+				<real>0.9871404767036438</real>
+			</dict>
+			<key>Ansi 10 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.74659085273742676</real>
+				<key>Green Component</key>
+				<real>0.96712285280227661</real>
+				<key>Red Component</key>
+				<real>0.67800694704055786</real>
+			</dict>
+			<key>Ansi 11 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.42511638998985291</real>
+				<key>Green Component</key>
+				<real>0.88262283802032471</real>
+				<key>Red Component</key>
+				<real>0.99765938520431519</real>
+			</dict>
+			<key>Ansi 12 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.99898606538772583</real>
+				<key>Green Component</key>
+				<real>0.81066548824310303</real>
+				<key>Red Component</key>
+				<real>0.43880558013916016</real>
+			</dict>
+			<key>Ansi 13 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.60766077041625977</real>
+				<key>Green Component</key>
+				<real>0.40164706110954285</real>
+				<key>Red Component</key>
+				<real>0.9887651801109314</real>
+			</dict>
+			<key>Ansi 14 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.90182536840438843</real>
+				<key>Green Component</key>
+				<real>1</real>
+				<key>Red Component</key>
+				<real>0.60292786359786987</real>
+			</dict>
+			<key>Ansi 15 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.99999129772186279</real>
+				<key>Green Component</key>
+				<real>0.99997437000274658</real>
+				<key>Red Component</key>
+				<real>1</real>
+			</dict>
+			<key>Ansi 2 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.62042194604873657</real>
+				<key>Green Component</key>
+				<real>0.94388872385025024</real>
+				<key>Red Component</key>
+				<real>0.36202818155288696</real>
+			</dict>
+			<key>Ansi 3 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.19727933406829834</real>
+				<key>Green Component</key>
+				<real>0.81672251224517822</real>
+				<key>Red Component</key>
+				<real>0.99627053737640381</real>
+			</dict>
+			<key>Ansi 4 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.99871528148651123</real>
+				<key>Green Component</key>
+				<real>0.7149810791015625</real>
+				<key>Red Component</key>
+				<real>0.215079665184021</real>
+			</dict>
+			<key>Ansi 5 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.43182668089866638</real>
+				<key>Green Component</key>
+				<real>0.13310989737510681</real>
+				<key>Red Component</key>
+				<real>0.986469566822052</real>
+			</dict>
+			<key>Ansi 6 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.82062870264053345</real>
+				<key>Green Component</key>
+				<real>1</real>
+				<key>Red Component</key>
+				<real>0.34860008955001831</real>
+			</dict>
+			<key>Ansi 7 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.99999129772186279</real>
+				<key>Green Component</key>
+				<real>0.99997437000274658</real>
+				<key>Red Component</key>
+				<real>1</real>
+			</dict>
+			<key>Ansi 8 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.72321081161499023</real>
+				<key>Green Component</key>
+				<real>0.69167852401733398</real>
+				<key>Red Component</key>
+				<real>0.63061976432800293</real>
+			</dict>
+			<key>Ansi 9 Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.42818409204483032</real>
+				<key>Green Component</key>
+				<real>0.45310419797897339</real>
+				<key>Red Component</key>
+				<real>0.98958194255828857</real>
+			</dict>
+			<key>Background Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.16608485579490662</real>
+				<key>Green Component</key>
+				<real>0.14745020866394043</real>
+				<key>Red Component</key>
+				<real>0.11278382688760757</real>
+			</dict>
+			<key>Bold Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.91648769378662109</real>
+				<key>Green Component</key>
+				<real>0.91671288013458252</real>
+				<key>Red Component</key>
+				<real>0.91654461622238159</real>
+			</dict>
+			<key>Cursor Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.91648769378662109</real>
+				<key>Green Component</key>
+				<real>0.91671288013458252</real>
+				<key>Red Component</key>
+				<real>0.91654461622238159</real>
+			</dict>
+			<key>Cursor Text Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.0</real>
+				<key>Green Component</key>
+				<real>0.0</real>
+				<key>Red Component</key>
+				<real>0.0</real>
+			</dict>
+			<key>Foreground Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.93115901947021484</real>
+				<key>Green Component</key>
+				<real>0.92142927646636963</real>
+				<key>Red Component</key>
+				<real>0.90730977058410645</real>
+			</dict>
+			<key>Selected Text Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.93115901947021484</real>
+				<key>Green Component</key>
+				<real>0.92142927646636963</real>
+				<key>Red Component</key>
+				<real>0.90730977058410645</real>
+			</dict>
+			<key>Selection Color</key>
+			<dict>
+				<key>Blue Component</key>
+				<real>0.47096589207649231</real>
+				<key>Green Component</key>
+				<real>0.41462835669517517</real>
+				<key>Red Component</key>
+				<real>0.30659490823745728</real>
+			</dict>
+		</dict>
 		<key>Material Theme</key>
 		<dict>
 			<key>Ansi 0 Color</key>
@@ -1556,7 +1766,7 @@
 		</dict>
 	</dict>
 	<key>Default Arrangement Name</key>
-	<string>LG2</string>
+	<string>4X</string>
 	<key>Default Bookmark Guid</key>
 	<string>6AD1FC78-D97F-483F-B496-4158E277A279</string>
 	<key>DoubleClickPerformsSmartSelection</key>
@@ -1577,86 +1787,70 @@
 			<key>Ansi 0 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.12923833727836609</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.40253299474716187</real>
 				<key>Green Component</key>
-				<real>0.10887220501899719</real>
+				<real>0.35616019368171692</real>
 				<key>Red Component</key>
-				<real>0.072135128080844879</real>
+				<real>0.26286587119102478</real>
 			</dict>
 			<key>Ansi 1 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.33114415407180786</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.25575384497642517</real>
 				<key>Green Component</key>
-				<real>0.27702754735946655</real>
+				<real>0.22098405659198761</real>
 				<key>Red Component</key>
-				<real>0.89593487977981567</real>
+				<real>0.9871404767036438</real>
 			</dict>
 			<key>Ansi 10 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.50905120372772217</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.74659085273742676</real>
 				<key>Green Component</key>
-				<real>0.74280524253845215</real>
+				<real>0.96712285280227661</real>
 				<key>Red Component</key>
-				<real>0.53603297472000122</real>
+				<real>0.67800694704055786</real>
 			</dict>
 			<key>Ansi 11 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.31759658455848694</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.42511638998985291</real>
 				<key>Green Component</key>
-				<real>0.74274349212646484</real>
+				<real>0.88262283802032471</real>
 				<key>Red Component</key>
-				<real>0.97044718265533447</real>
+				<real>0.99765938520431519</real>
 			</dict>
 			<key>Ansi 12 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.75472033023834229</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.99898606538772583</real>
 				<key>Green Component</key>
-				<real>0.52402210235595703</real>
+				<real>0.81066548824310303</real>
 				<key>Red Component</key>
-				<real>0.33133840560913086</real>
+				<real>0.43880558013916016</real>
 			</dict>
 			<key>Ansi 13 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.72311609983444214</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.60766077041625977</real>
 				<key>Green Component</key>
-				<real>0.49488019943237305</real>
+				<real>0.40164706110954285</real>
 				<key>Red Component</key>
-				<real>0.71825045347213745</real>
+				<real>0.9887651801109314</real>
 			</dict>
 			<key>Ansi 14 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.64188027381896973</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.90182536840438843</real>
 				<key>Green Component</key>
-				<real>0.64762973785400391</real>
+				<real>1</real>
 				<key>Red Component</key>
-				<real>0.3120269775390625</real>
+				<real>0.60292786359786987</real>
 			</dict>
 			<key>Ansi 15 Color</key>
 			<dict>
 				<key>Blue Component</key>
 				<real>0.99999129772186279</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
 				<key>Green Component</key>
 				<real>0.99997437000274658</real>
 				<key>Red Component</key>
@@ -1665,64 +1859,52 @@
 			<key>Ansi 2 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.50905120372772217</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.62042194604873657</real>
 				<key>Green Component</key>
-				<real>0.74280524253845215</real>
+				<real>0.94388872385025024</real>
 				<key>Red Component</key>
-				<real>0.53603297472000122</real>
+				<real>0.36202818155288696</real>
 			</dict>
 			<key>Ansi 3 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.31759658455848694</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.19727933406829834</real>
 				<key>Green Component</key>
-				<real>0.74274349212646484</real>
+				<real>0.81672251224517822</real>
 				<key>Red Component</key>
-				<real>0.97044718265533447</real>
+				<real>0.99627053737640381</real>
 			</dict>
 			<key>Ansi 4 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.75472033023834229</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.99871528148651123</real>
 				<key>Green Component</key>
-				<real>0.52402210235595703</real>
+				<real>0.7149810791015625</real>
 				<key>Red Component</key>
-				<real>0.33133840560913086</real>
+				<real>0.215079665184021</real>
 			</dict>
 			<key>Ansi 5 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.72311609983444214</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.43182668089866638</real>
 				<key>Green Component</key>
-				<real>0.49488019943237305</real>
+				<real>0.13310989737510681</real>
 				<key>Red Component</key>
-				<real>0.71825045347213745</real>
+				<real>0.986469566822052</real>
 			</dict>
 			<key>Ansi 6 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.64188027381896973</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.82062870264053345</real>
 				<key>Green Component</key>
-				<real>0.64762973785400391</real>
+				<real>1</real>
 				<key>Red Component</key>
-				<real>0.3120269775390625</real>
+				<real>0.34860008955001831</real>
 			</dict>
 			<key>Ansi 7 Color</key>
 			<dict>
 				<key>Blue Component</key>
 				<real>0.99999129772186279</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
 				<key>Green Component</key>
 				<real>0.99997437000274658</real>
 				<key>Red Component</key>
@@ -1731,37 +1913,31 @@
 			<key>Ansi 8 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.41846594214439392</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.72321081161499023</real>
 				<key>Green Component</key>
-				<real>0.37485924363136292</real>
+				<real>0.69167852401733398</real>
 				<key>Red Component</key>
-				<real>0.3234245777130127</real>
+				<real>0.63061976432800293</real>
 			</dict>
 			<key>Ansi 9 Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.33114415407180786</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.42818409204483032</real>
 				<key>Green Component</key>
-				<real>0.27702754735946655</real>
+				<real>0.45310419797897339</real>
 				<key>Red Component</key>
-				<real>0.89593487977981567</real>
+				<real>0.98958194255828857</real>
 			</dict>
 			<key>BM Growl</key>
 			<true/>
 			<key>Background Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.1297074556350708</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.16608485579490662</real>
 				<key>Green Component</key>
-				<real>0.10740385949611664</real>
+				<real>0.14745020866394043</real>
 				<key>Red Component</key>
-				<real>0.071905560791492462</real>
+				<real>0.11278382688760757</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -1774,7 +1950,7 @@
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.14910027384757996</real>
+				<real>0.14910030364990234</real>
 				<key>Red Component</key>
 				<real>1</real>
 			</dict>
@@ -1785,13 +1961,11 @@
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.76466912031173706</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.91648769378662109</real>
 				<key>Green Component</key>
-				<real>0.72239696979522705</real>
+				<real>0.91671288013458252</real>
 				<key>Red Component</key>
-				<real>0.70114254951477051</real>
+				<real>0.91654461622238159</real>
 			</dict>
 			<key>Bound Hosts</key>
 			<array/>
@@ -1806,13 +1980,11 @@
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.76466912031173706</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.91648769378662109</real>
 				<key>Green Component</key>
-				<real>0.72239696979522705</real>
+				<real>0.91671288013458252</real>
 				<key>Red Component</key>
-				<real>0.70114254951477051</real>
+				<real>0.91654461622238159</real>
 			</dict>
 			<key>Cursor Guide Color</key>
 			<dict>
@@ -1830,13 +2002,11 @@
 			<key>Cursor Text Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.12923833727836609</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.0</real>
 				<key>Green Component</key>
-				<real>0.10887220501899719</real>
+				<real>0.0</real>
 				<key>Red Component</key>
-				<real>0.072135128080844879</real>
+				<real>0.0</real>
 			</dict>
 			<key>Cursor Type</key>
 			<integer>0</integer>
@@ -1857,13 +2027,11 @@
 			<key>Foreground Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.76466912031173706</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.93115901947021484</real>
 				<key>Green Component</key>
-				<real>0.72239696979522705</real>
+				<real>0.92142927646636963</real>
 				<key>Red Component</key>
-				<real>0.70114254951477051</real>
+				<real>0.90730977058410645</real>
 			</dict>
 			<key>Guid</key>
 			<string>6AD1FC78-D97F-483F-B496-4158E277A279</string>
@@ -2166,11 +2334,11 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.73422712087631226</real>
+				<real>0.73422706127166748</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.35915297269821167</real>
+				<real>0.35915294289588928</real>
 				<key>Red Component</key>
 				<real>0.0</real>
 			</dict>
@@ -2199,24 +2367,20 @@
 			<key>Selected Text Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.76466912031173706</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.93115901947021484</real>
 				<key>Green Component</key>
-				<real>0.72239696979522705</real>
+				<real>0.92142927646636963</real>
 				<key>Red Component</key>
-				<real>0.70114254951477051</real>
+				<real>0.90730977058410645</real>
 			</dict>
 			<key>Selection Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.32565724849700928</real>
-				<key>Color Space</key>
-				<string>Calibrated</string>
+				<real>0.47096589207649231</real>
 				<key>Green Component</key>
-				<real>0.28464928269386292</real>
+				<real>0.41462835669517517</real>
 				<key>Red Component</key>
-				<real>0.24374458193778992</real>
+				<real>0.30659490823745728</real>
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
@@ -4447,7 +4611,7 @@
 	<key>OpenArrangementAtStartup</key>
 	<true/>
 	<key>OpenBookmark</key>
-	<false/>
+	<true/>
 	<key>OpenNoWindowsAtStartup</key>
 	<false/>
 	<key>PointerActions</key>
@@ -4509,7 +4673,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -4532,7 +4696,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>29127183-EFE5-4B6F-BE47-CBDF5D38BB4A</string>
+							<string>B1A6F5DB-4765-40A7-85DF-359A7AC8700F</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -4838,7 +5002,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>5A862BAF-D2B1-4D65-B82A-7FF26C9E9BD9</string>
+											<string>4D51F96F-A03F-483A-ACCE-3C67CD49FC1A</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -5155,7 +5319,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -5236,6 +5400,11 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -5246,6 +5415,36 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -5276,9 +5475,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>D91F94CC-D70B-4844-A5D1-39EB91314A39</string>
+										<string>8647DAE0-1614-4D5A-B88C-64637E1BBCCD</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -5300,9 +5499,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -5315,9 +5514,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -5327,11 +5526,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>CEEC62F1-B021-4A5D-BD60-EB88301034AF</string>
+						<string>93E02EE4-BCCA-4C8C-9073-13EED1C41437</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-98A96E67-0A26-4D16-9679-0139175CF5B1</string>
+				<string>pty-8C4E1AD4-5ACC-4E38-A9B7-BDD5E6253BDD</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -5360,13 +5559,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>922</real>
+				<real>10</real>
 				<key>Y Origin</key>
-				<real>817</real>
+				<real>691</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -5376,7 +5575,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -5399,7 +5598,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>024432E4-10A2-4003-9A91-067D5B675652</string>
+							<string>2AEC810D-410A-4687-BA2B-A263CCE4D41A</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -5705,7 +5904,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>9D57CAEF-E867-4DEB-9F11-0F107E8952D1</string>
+											<string>0B0545AE-802C-41BF-939C-C8CE1500947D</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -6022,7 +6221,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -6103,6 +6302,11 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -6113,6 +6317,36 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -6143,9 +6377,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>FBD2A632-0053-4A56-9620-18191A666F2B</string>
+										<string>38C11B15-4723-4269-8619-EF0D8DFF3E55</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -6167,9 +6401,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -6182,9 +6416,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -6194,11 +6428,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>402EA12C-B3D3-4BBA-9B87-5F8C9F9D1159</string>
+						<string>01F967B6-DF0D-424D-BEE4-912D680E2C27</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-49DB32CF-7BFC-4363-AF8D-FE21EB1D8E79</string>
+				<string>pty-02B722D8-5B42-49CD-9853-2C86150EA06E</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -6227,13 +6461,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>929</real>
+				<real>13</real>
 				<key>Y Origin</key>
-				<real>82</real>
+				<real>53</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -6243,7 +6477,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -6266,7 +6500,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>80B38F8B-B01E-4903-81A7-B9645651B00B</string>
+							<string>9EC969B2-52AA-4BC4-AC4F-886AC5E7DC5C</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -6572,7 +6806,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>3C6EF391-B73A-4D8A-BD8E-77AFC5027E07</string>
+											<string>3540C76F-1680-4A05-870B-929C8ECA9957</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -6889,7 +7123,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -6970,6 +7204,11 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -6980,6 +7219,36 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -7010,9 +7279,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>BE0C945C-6B1C-4047-BF0F-41F00F4BDBA1</string>
+										<string>7588E4C9-D6ED-4E97-B611-DB53EBE5E3B4</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -7034,9 +7303,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -7049,9 +7318,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -7061,11 +7330,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>FE60CA38-DCE1-47FD-8BB6-AE32EFC49054</string>
+						<string>B77948DE-2F50-4301-AECC-287CF859D8C4</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-A14D71E2-87FA-49B8-A36A-718E5D430CB9</string>
+				<string>pty-506E9E69-A993-4B0F-9B7F-7822257355FC</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -7094,13 +7363,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>1962</real>
+				<real>1004</real>
 				<key>Y Origin</key>
-				<real>818</real>
+				<real>691</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -7110,11 +7379,11 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
-				<true/>
+				<false/>
 				<key>Initial Profile</key>
 				<dict/>
 				<key>Is Hotkey Window</key>
@@ -7133,7 +7402,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>C075B37C-977B-4827-A84E-82ECC6C551B3</string>
+							<string>F08F3D04-B468-4AA7-9E8E-A1C02C9C3547</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -7439,7 +7708,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>462A6A87-71FA-46B1-86A4-871CB6AA64B7</string>
+											<string>256C0135-C8B4-40BE-88E9-24FC78D48CF2</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -7756,7 +8025,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -7837,6 +8106,11 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -7847,6 +8121,30 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -7877,9 +8175,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>2B28A4B2-5A4A-415E-8C8F-19CA1070B27A</string>
+										<string>3C821297-28D7-41BE-A304-15C0170F0277</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -7901,9 +8199,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -7916,9 +8214,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -7928,11 +8226,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>19C11BCB-F91A-420E-A340-9E1CD4E65270</string>
+						<string>9B26125E-F201-4944-8065-9AA0572E6800</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-736D374C-368C-4BBC-8EB2-66B426F3B062</string>
+				<string>pty-90F03BAC-B67E-4A91-A262-F55799372995</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -7961,16 +8259,16 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>1975</real>
+				<real>1005</real>
 				<key>Y Origin</key>
-				<real>68</real>
+				<real>55</real>
 			</dict>
 		</array>
-		<key>LG2</key>
+		<key>bottom</key>
 		<array>
 			<dict>
 				<key>Desired Columns</key>
@@ -7980,7 +8278,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -8003,7 +8301,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>29127183-EFE5-4B6F-BE47-CBDF5D38BB4A</string>
+							<string>B1A6F5DB-4765-40A7-85DF-359A7AC8700F</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -8309,7 +8607,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>E727C56B-CA1A-4505-B6FB-71A980092BDC</string>
+											<string>463B5035-3219-484D-930A-0446803CA14A</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -8626,7 +8924,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -8709,6 +9007,13 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -8719,6 +9024,42 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -8755,9 +9096,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>D91F94CC-D70B-4844-A5D1-39EB91314A39</string>
+										<string>525AE985-0B59-4431-8D3C-688E47E880B7</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -8779,9 +9120,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -8794,9 +9135,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -8806,11 +9147,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>CEEC62F1-B021-4A5D-BD60-EB88301034AF</string>
+						<string>93E02EE4-BCCA-4C8C-9073-13EED1C41437</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-98A96E67-0A26-4D16-9679-0139175CF5B1</string>
+				<string>pty-8C4E1AD4-5ACC-4E38-A9B7-BDD5E6253BDD</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -8839,13 +9180,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>2480</real>
+				<real>9</real>
 				<key>Y Origin</key>
-				<real>1134</real>
+				<real>87</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -8855,7 +9196,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -8878,7 +9219,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>024432E4-10A2-4003-9A91-067D5B675652</string>
+							<string>2AEC810D-410A-4687-BA2B-A263CCE4D41A</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -9184,7 +9525,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>72EDA0E6-F2F4-4865-9EC5-C942FAD639D1</string>
+											<string>43A6B71E-A0A1-44ED-91FE-64955E46E45C</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -9501,7 +9842,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -9585,6 +9926,12 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -9595,6 +9942,36 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -9637,9 +10014,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>FBD2A632-0053-4A56-9620-18191A666F2B</string>
+										<string>FBC275C8-4DEC-4D66-9305-1197736B3802</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -9661,9 +10038,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -9676,9 +10053,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -9688,11 +10065,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>402EA12C-B3D3-4BBA-9B87-5F8C9F9D1159</string>
+						<string>01F967B6-DF0D-424D-BEE4-912D680E2C27</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-49DB32CF-7BFC-4363-AF8D-FE21EB1D8E79</string>
+				<string>pty-02B722D8-5B42-49CD-9853-2C86150EA06E</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -9721,13 +10098,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>2461</real>
+				<real>997</real>
 				<key>Y Origin</key>
-				<real>66</real>
+				<real>88</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -9737,7 +10114,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -9749,7 +10126,7 @@
 				<key>Saved Window Type</key>
 				<integer>0</integer>
 				<key>Screen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>Scroller Width</key>
 				<real>0.0</real>
 				<key>Selected Tab Index</key>
@@ -9760,7 +10137,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>80B38F8B-B01E-4903-81A7-B9645651B00B</string>
+							<string>9EC969B2-52AA-4BC4-AC4F-886AC5E7DC5C</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -10066,7 +10443,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>48F1F889-6600-4E9E-B270-B7D1156A2585</string>
+											<string>379AF2D9-53C4-48E6-BC5C-BB2B129699F7</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -10383,7 +10760,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -10466,6 +10843,13 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -10476,6 +10860,42 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -10512,9 +10932,9 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>BE0C945C-6B1C-4047-BF0F-41F00F4BDBA1</string>
+										<string>2EBC3260-0C98-4CA3-9039-6642FD7515C5</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -10536,9 +10956,9 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -10551,9 +10971,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -10563,11 +10983,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>FE60CA38-DCE1-47FD-8BB6-AE32EFC49054</string>
+						<string>B77948DE-2F50-4301-AECC-287CF859D8C4</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-A14D71E2-87FA-49B8-A36A-718E5D430CB9</string>
+				<string>pty-506E9E69-A993-4B0F-9B7F-7822257355FC</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -10596,13 +11016,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>3372</real>
+				<real>1987</real>
 				<key>Y Origin</key>
-				<real>1139</real>
+				<real>91</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -10612,11 +11032,11 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>593</real>
+				<real>594</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
-				<true/>
+				<false/>
 				<key>Initial Profile</key>
 				<dict/>
 				<key>Is Hotkey Window</key>
@@ -10624,7 +11044,7 @@
 				<key>Saved Window Type</key>
 				<integer>0</integer>
 				<key>Screen</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>Scroller Width</key>
 				<real>0.0</real>
 				<key>Selected Tab Index</key>
@@ -10635,7 +11055,7 @@
 						<key>Root</key>
 						<dict>
 							<key>Splitter ID</key>
-							<string>C075B37C-977B-4827-A84E-82ECC6C551B3</string>
+							<string>F08F3D04-B468-4AA7-9E8E-A1C02C9C3547</string>
 							<key>Subviews</key>
 							<array>
 								<dict>
@@ -10941,7 +11361,7 @@
 												<real>0.70114254951477051</real>
 											</dict>
 											<key>Guid</key>
-											<string>CF4E2D54-771E-405F-8C2A-1C53DB1D09AD</string>
+											<string>114E7671-3C66-4848-94EC-DD1E96785AA2</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -11258,7 +11678,7 @@
 											<key>Non-ASCII Anti Aliased</key>
 											<true/>
 											<key>Normal Font</key>
-											<string>SauceCodeProNF 12</string>
+											<string>SauceCodeProNF 13</string>
 											<key>Option Key Sends</key>
 											<integer>0</integer>
 											<key>Original Guid</key>
@@ -11341,6 +11761,13 @@
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -11351,6 +11778,48 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -11387,13 +11856,13 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>35</integer>
+										<integer>33</integer>
 										<key>Session GUID</key>
-										<string>2B28A4B2-5A4A-415E-8C8F-19CA1070B27A</string>
+										<string>42E2DA19-9B2E-4462-A6CE-8C8AC78A0D1B</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
-										<false/>
+										<true/>
 										<key>Should Expect Prompt Marks</key>
 										<true/>
 										<key>Substitutions</key>
@@ -11404,16 +11873,16 @@
 										<key>Working Directory</key>
 										<string>/Users/tracphil</string>
 										<key>Working Directory Poller Disabled</key>
-										<false/>
+										<true/>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>564</real>
+										<real>565</real>
 										<key>width</key>
-										<real>850</real>
+										<real>970</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -11426,9 +11895,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>564</real>
+								<real>565</real>
 								<key>width</key>
-								<real>850</real>
+								<real>970</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -11438,11 +11907,11 @@
 							<false/>
 						</dict>
 						<key>Tab GUID</key>
-						<string>19C11BCB-F91A-420E-A340-9E1CD4E65270</string>
+						<string>9B26125E-F201-4944-8065-9AA0572E6800</string>
 					</dict>
 				</array>
 				<key>TerminalGuid</key>
-				<string>pty-736D374C-368C-4BBC-8EB2-66B426F3B062</string>
+				<string>pty-90F03BAC-B67E-4A91-A262-F55799372995</string>
 				<key>Toolbelt</key>
 				<dict>
 					<key>Profiles</key>
@@ -11471,13 +11940,13 @@
 				<key>Use Transparency</key>
 				<true/>
 				<key>Width</key>
-				<real>850</real>
+				<real>970</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>3394</real>
+				<real>2849</real>
 				<key>Y Origin</key>
-				<real>45</real>
+				<real>93</real>
 			</dict>
 		</array>
 	</dict>
