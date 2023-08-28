@@ -4960,7 +4960,7 @@
 												<real>0.90730977058410645</real>
 											</dict>
 											<key>Guid</key>
-											<string>47CDD1EB-F4FB-4795-A6AF-3BD01821AB25</string>
+											<string>A364E8CE-1CF1-4372-8F16-FA17869EED2D</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -5353,6 +5353,10 @@
 										<array>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -5363,6 +5367,18 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -5395,10 +5411,8 @@
 										</array>
 										<key>Program</key>
 										<dict>
-											<key>Command</key>
-											<string>login -fqp "tracphil"</string>
 											<key>Type</key>
-											<string>Command</string>
+											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
 										<integer>34</integer>
@@ -5489,9 +5503,9 @@
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>18</real>
+				<real>23</real>
 				<key>Y Origin</key>
-				<real>664</real>
+				<real>674</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -5788,7 +5802,7 @@
 												<real>0.90730977058410645</real>
 											</dict>
 											<key>Guid</key>
-											<string>05B6367C-2514-4BC7-8E7D-18C6D4BE5807</string>
+											<string>A4C948DB-B9F3-4AF9-950F-518E9759117B</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -6181,6 +6195,10 @@
 										<array>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -6191,6 +6209,18 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -6223,10 +6253,8 @@
 										</array>
 										<key>Program</key>
 										<dict>
-											<key>Command</key>
-											<string>login -fqp "tracphil"</string>
 											<key>Type</key>
-											<string>Command</string>
+											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
 										<integer>34</integer>
@@ -6317,9 +6345,9 @@
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>1062</real>
+				<real>1058</real>
 				<key>Y Origin</key>
-				<real>667</real>
+				<real>674</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -6616,7 +6644,7 @@
 												<real>0.90730977058410645</real>
 											</dict>
 											<key>Guid</key>
-											<string>F99AD72F-4EB2-4709-B331-7AE0C7EBAED2</string>
+											<string>1065A7F6-2E24-4177-8E4F-9B675E310014</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -7009,6 +7037,10 @@
 										<array>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -7019,6 +7051,18 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -7051,10 +7095,8 @@
 										</array>
 										<key>Program</key>
 										<dict>
-											<key>Command</key>
-											<string>login -fqp "tracphil"</string>
 											<key>Type</key>
-											<string>Command</string>
+											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
 										<integer>34</integer>
@@ -7145,9 +7187,9 @@
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>18</real>
+				<real>25</real>
 				<key>Y Origin</key>
-				<real>49</real>
+				<real>58</real>
 			</dict>
 			<dict>
 				<key>Desired Columns</key>
@@ -7444,7 +7486,7 @@
 												<real>0.90730977058410645</real>
 											</dict>
 											<key>Guid</key>
-											<string>A1CF38F2-A340-420A-BE9F-15C24151D873</string>
+											<string>241B983D-B2B2-433F-BAAB-6B7F71680CE2</string>
 											<key>Horizontal Spacing</key>
 											<real>1</real>
 											<key>Idle Code</key>
@@ -7837,6 +7879,9 @@
 										<array>
 											<string>/Users/tracphil</string>
 											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
+											<string>/Users/tracphil</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -7847,6 +7892,18 @@
 										<dict/>
 										<key>Hosts</key>
 										<array>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>Host name</key>
+												<string>Tracys-MacBook-Pro.local</string>
+												<key>User name</key>
+												<string></string>
+											</dict>
 											<dict>
 												<key>Host name</key>
 												<string>Tracys-MacBook-Pro.local</string>
@@ -7879,10 +7936,8 @@
 										</array>
 										<key>Program</key>
 										<dict>
-											<key>Command</key>
-											<string>login -fqp "tracphil"</string>
 											<key>Type</key>
-											<string>Command</string>
+											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
 										<integer>34</integer>
@@ -7891,7 +7946,7 @@
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
-										<false/>
+										<true/>
 										<key>Should Expect Prompt Marks</key>
 										<true/>
 										<key>Substitutions</key>
@@ -7902,7 +7957,7 @@
 										<key>Working Directory</key>
 										<string>/Users/tracphil</string>
 										<key>Working Directory Poller Disabled</key>
-										<false/>
+										<true/>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
@@ -7973,9 +8028,9 @@
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
-				<real>1062</real>
+				<real>1056</real>
 				<key>Y Origin</key>
-				<real>49</real>
+				<real>59</real>
 			</dict>
 		</array>
 	</dict>
